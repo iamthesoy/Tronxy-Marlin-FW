@@ -1,7 +1,5 @@
 ## Applicable printers
 
-  1|2|3|4|5|6
-  --------|--------|-------|-------|-------|-------
   XY2-PRO|XY2_PRO_2E|XY2_PRO_3E
   X5SA|X5SA_g|X5SA_MINI|X5SA_PRO|X5SA_2E|X5SA_PRO_3E
   X5SA400|X5SA400_PRO|X5SA400_2E|X5SA500_2E
