@@ -1,6 +1,8 @@
 ## TRONXY have finally unfucked their github and are properly maintaining it. I don't have the time to maintain firmware for a bunch of printers i don't own so i am archiving this repo. Please see TRONXY's github page here: https://github.com/tronxy3d
 
-
+##
+##
+##
 
 
 ## Applicable printers
