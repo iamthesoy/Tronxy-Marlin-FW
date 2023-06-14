@@ -1,3 +1,8 @@
+## TRONXY have finally unfucked their github and are properly maintaining it. I don't have the time to maintain firmware for a bunch of printers i don't own so i am archiving this repo. Please see TRONXY's github page here: https://github.com/tronxy3d
+
+
+
+
 ## Applicable printers
   This firmware is built for the following machines only
   XY Series: XY2-PRO,XY2_PRO_2E,XY2_PRO_3E,XY3-PRO,XY3_PB,XY3-PRO-V2,XY3SE,XY3SE_2E,XY3SE_V2
